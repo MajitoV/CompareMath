@@ -1,0 +1,103 @@
+﻿1
+00:00:00,000 --> 00:00:03,750
+como que grafican una función o ecuación
+
+2
+00:00:02,010 --> 00:00:05,670
+lineal es complicado nomás con este
+
+3
+00:00:03,750 --> 00:00:07,230
+súper método primero identificamos la
+
+4
+00:00:05,670 --> 00:00:09,389
+pendiente que es el número que acompaña
+
+5
+00:00:07,230 --> 00:00:11,070
+a la variable x lo dejamos escrito como
+
+6
+00:00:09,389 --> 00:00:13,590
+fracción en este caso el 2 se encuentra
+
+7
+00:00:11,070 --> 00:00:15,750
+sobre 1 ahora analizamos el signo del
+
+8
+00:00:13,590 --> 00:00:17,760
+numerador es positivo y aquí viene lo
+
+9
+00:00:15,750 --> 00:00:19,500
+interesante ubicamos en el eje y un
+
+10
+00:00:17,760 --> 00:00:21,600
+punto donde nos indique el término
+
+11
+00:00:19,500 --> 00:00:23,369
+independiente en este caso más 1 así que
+
+12
+00:00:21,600 --> 00:00:25,470
+buscamos más uno aquí se encuentra un
+
+13
+00:00:23,369 --> 00:00:27,240
+punto y luego en la pendiente el
+
+14
+00:00:25,470 --> 00:00:28,949
+numerador me indica cuántas unidades me
+
+15
+00:00:27,240 --> 00:00:31,019
+desplazo hacia arriba o hacia abajo a
+
+16
+00:00:28,949 --> 00:00:32,969
+partir de este punto si es positivo
+
+17
+00:00:31,019 --> 00:00:34,800
+hacia arriba si es negativo hacia abajo
+
+18
+00:00:32,969 --> 00:00:37,950
+como es positivo me desplazo dos
+
+19
+00:00:34,800 --> 00:00:40,140
+unidades contemos 1 y 2 me encuentro en
+
+20
+00:00:37,950 --> 00:00:42,000
+el número 3 y el denominador me indica
+
+21
+00:00:40,140 --> 00:00:44,579
+siempre cuántas unidades me desplazo
+
+22
+00:00:42,000 --> 00:00:46,140
+hacia la derecha entonces contemos una
+
+23
+00:00:44,579 --> 00:00:48,570
+unidad se encuentra en esta posición
+
+24
+00:00:46,140 --> 00:00:50,940
+trazamos un punto y finalmente unimos
+
+25
+00:00:48,570 --> 00:00:54,949
+los puntos y listo amigazos así de fácil
+
+26
+00:00:50,940 --> 00:00:54,949
+podemos graficar una ecuación lineal
